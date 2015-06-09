@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">हाम्रो नेपाल</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="main_content">तपाई हरुलाई हाम्रो नेपाल एप्प मा स्वागत छ.</string>
+</resources>

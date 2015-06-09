@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">हाम्रो नेपाल</string>
+
+    <string name="hello_world">हेल्लो वोर्ल्ड</string>
+    <string name="action_settings">सेत्तिन्ग्स</string>
+    <string name="main_content">तपाई हरुलाई हाम्रो नेपाल एप्प मा स्वागत छ.</string>
+
+</resources>
